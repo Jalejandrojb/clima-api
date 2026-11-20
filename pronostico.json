@@ -3,14 +3,14 @@
     "id": 1,
     "titulo": "FACHADA ATLÁNTICA Y GUAYANA ESEQUIBA",
     "descripcion": "Cielo parcialmente cubierto alternando con periodos nublados",
-    "imagen_url": "https://jalejandrojb.github.io/notiticas-api/imagenes/3-1795058554434.jpeg",
+    "imagen_url": "https://jalejandrojb.github.io/clima-api/imagenes/noche.jpeg",
     "fecha": "2026-20-11"
   },
   {
     "id": 2,
     "titulo": "ZONA ORIENTAL",
     "descripcion": "Cielo parcialmente nublado alternando con algunos periodos nublados.",
-    "imagen_url": "https://jalejandrojb.github.io/notiticas-api/imagenes/faro1-1795057327803.jpg",
+    "imagen_url": "https://jalejandrojb.github.io/clima-api/imagenes/rescate-boya.jpg",
     "fecha": "2026-20-11"
   }
 ]
