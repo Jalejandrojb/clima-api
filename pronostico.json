@@ -12,5 +12,19 @@
     "descripcion": "Cielo parcialmente nublado alternando con algunos periodos nublados.",
     "imagen_url": "https://jalejandrojb.github.io/clima-api/imagenes/rescate-boya.jpg",
     "fecha": "2026-20-11"
+  },
+  {
+    "id": 3,
+    "titulo": "ZONA CENTRAL",
+    "descripcion": "Parcialmente nublado durante el periodo.",
+    "imagen_url": "https://jalejandrojb.github.io/clima-api/imagenes/rescate-boya.jpg",
+    "fecha": "2026-20-11"
+  },
+  {
+    "id": 4,
+    "titulo": "ZONA OCCIDENTAL",
+    "descripcion": "Parcialmente nublado durante el periodo.",
+    "imagen_url": "https://jalejandrojb.github.io/clima-api/imagenes/rescate-boya.jpg",
+    "fecha": "2026-20-11"
   }
 ]
